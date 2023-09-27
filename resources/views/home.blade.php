@@ -7,6 +7,6 @@
     <title>Laravel Migration Seeder</title>
 </head>
 <body>
-    test
+    {{$trains}}
 </body>
 </html>
